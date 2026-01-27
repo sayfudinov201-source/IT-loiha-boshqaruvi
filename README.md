@@ -1,2 +1,3 @@
 # IT-loiha-boshqaruvi
-Add public
+Cho'lpon
+Yunus hoji
