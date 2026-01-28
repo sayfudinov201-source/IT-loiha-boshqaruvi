@@ -1,3 +1,7 @@
-# IT-loiha-boshqaruvi
-Cho'lpon
-Yunus hoji
+# Bobur
+
+
+It.Loyiha boshqaruvi
+Sayfudinov Bobur
+Fan:IT loiha boshqarivi
+Guruh:At56
